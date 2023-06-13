@@ -1,5 +1,5 @@
-# BicycleSupporterAnalyzer
-BicycleSupporterアプリから取得したデータを分析するスクリプト
+# analyze smartphone sensor data
+アプリから取得したデータを分析するスクリプト
 
 ## basic information
 - Python 3.8.5
